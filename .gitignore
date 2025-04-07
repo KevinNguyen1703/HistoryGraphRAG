@@ -6,3 +6,5 @@ graphrag-local-ollama
 .DS_Store
 .idea
 __pycache__
+dataset
+evaluation
