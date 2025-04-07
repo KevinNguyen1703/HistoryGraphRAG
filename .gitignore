@@ -1,0 +1,8 @@
+volumes
+nano-graphrag/nano_graphrag_history*
+.venv
+.env
+graphrag-local-ollama
+.DS_Store
+.idea
+__pycache__
